@@ -1,9 +1,9 @@
 <template>
   <div class="hero">
-    <img src="https://vuejs.org/images/logo.svg">
+    <img src="../assets/logo.png">
     <div class="vue-info">
         <h1>The Progressive JavaScript Framework </h1>
-        <a href="../assets/logo.png" target="blank">Vai al Sito</a>
+        <a href="https://vuejs.org/" target="blank">Vai al Sito</a>
     </div>
   </div>
 </template>
